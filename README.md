@@ -1,8 +1,8 @@
-<img align="center" alt="Conding" width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQ1NjE4b3hmOTEzYTNvaGgydzYyN3Q0MHVyN200bHN2MjM4YmVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnS7j9pwnECXLMrI4t/giphy.gif">
 <h1 align="center">Hi 👋, I'm Sahar Fayyad</h1>
 <h3 align="center">A Computer Engineering from Palestine</h3>
 
 - 📫 How to reach me **saharfayyad02@gmail.com**
+<img align="right" alt="Conding" width=400 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
